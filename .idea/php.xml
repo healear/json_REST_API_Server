@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/cauldron_overflow/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/cauldron_overflow/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/cauldron_overflow/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/cauldron_overflow/vendor/symfony/dotenv" />
+      <path value="$PROJECT_DIR$/cauldron_overflow/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/cauldron_overflow/vendor/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/cauldron_overflow/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/cauldron_overflow/vendor/symfony/config" />
+      <path value="$PROJECT_DIR$/cauldron_overflow/vendor/symfony/cache-contracts" />
+      <path value="$PROJECT_DIR$/cauldron_overflow/vendor/composer" />
+      <path value="$PROJECT_DIR$/cauldron_overflow/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/cauldron_overflow/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/cauldron_overflow/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/cauldron_overflow/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/cauldron_overflow/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/cauldron_overflow/vendor/symfony/var-exporter" />
+      <path value="$PROJECT_DIR$/cauldron_overflow/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/cauldron_overflow/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/cauldron_overflow/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/cauldron_overflow/vendor/symfony/runtime" />
+      <path value="$PROJECT_DIR$/cauldron_overflow/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/cauldron_overflow/vendor/symfony/polyfill-php81" />
+      <path value="$PROJECT_DIR$/cauldron_overflow/vendor/symfony/cache" />
+      <path value="$PROJECT_DIR$/cauldron_overflow/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/cauldron_overflow/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/cauldron_overflow/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/cauldron_overflow/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/cauldron_overflow/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/cauldron_overflow/vendor/symfony/framework-bundle" />
+      <path value="$PROJECT_DIR$/cauldron_overflow/vendor/symfony/flex" />
+      <path value="$PROJECT_DIR$/cauldron_overflow/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/cauldron_overflow/vendor/symfony/filesystem" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="8.0" />
+</project>
