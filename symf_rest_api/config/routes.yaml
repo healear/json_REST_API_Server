@@ -1,0 +1,33 @@
+register:
+    path: /reg
+    controller: App\Controller\RegController::register
+    methods: POST
+
+api_login_check:
+    path: /login
+    methods: [POST]
+
+api:
+    path: /api
+    controller: App\Controller\RegController::api
+
+get_plan:
+    path: /api/plans
+    controller: App\Controller\PlanController::get_plans
+    methods: GET
+
+add_plan:
+    path: /api/plans
+    controller: App\Controller\PlanController::add_plan
+    methods: POST
+
+delete_plan:
+    path: /api/plans/{id}
+    controller: App\Controller\PlanController::delete_plan
+    methods: DELETE
+
+put_plan:
+    path: /api/plans/{id}
+    controller: App\Controller\PlanController::update_plan
+    methods: PUT
+
